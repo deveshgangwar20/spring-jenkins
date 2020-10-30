@@ -12,7 +12,7 @@ public class SpringJenkinsApplication {
 
 	public void init() {
 		logger.info("Application Started...");
-		logger.info("Application Started 123...");
+		logger.info("Application Started 123...",Constant.DATA_TYPE);
 	}
 
 	public static void main(String[] args) {
