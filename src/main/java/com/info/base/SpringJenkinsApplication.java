@@ -13,6 +13,7 @@ public class SpringJenkinsApplication {
 	public void init() {
 		logger.info("Application Started...");
 		logger.info("Application Started 123...",Constant.DATA_TYPE);
+		logger.info("Phase 2 Branch Application Started 123...",Constant.DATA_TYPE);
 	}
 
 	public static void main(String[] args) {
