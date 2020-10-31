@@ -17,7 +17,7 @@ class SpringJenkinsApplicationTests {
 	
 	@Test
 	void contextLoads() {
-		logger.info("Testing Started...");
+		logger.info("Devesh is Testing Started...");
 		assertEquals(true, true);
 	}
 
